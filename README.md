@@ -1,4 +1,4 @@
-# Image-Caption-Generator
+# Flickr-Image-Caption-Generator
 
 DSCI 471 Applied Deep Learning | Spring 2024 | Final Project
 
